@@ -1,0 +1,11 @@
+D:\Projects\WebHelperKiller\WebHelperKiller\bin\Debug\netcoreapp2.1\WebHelperKiller.deps.json
+D:\Projects\WebHelperKiller\WebHelperKiller\bin\Debug\netcoreapp2.1\WebHelperKiller.runtimeconfig.json
+D:\Projects\WebHelperKiller\WebHelperKiller\bin\Debug\netcoreapp2.1\WebHelperKiller.runtimeconfig.dev.json
+D:\Projects\WebHelperKiller\WebHelperKiller\bin\Debug\netcoreapp2.1\WebHelperKiller.dll
+D:\Projects\WebHelperKiller\WebHelperKiller\bin\Debug\netcoreapp2.1\WebHelperKiller.pdb
+D:\Projects\WebHelperKiller\WebHelperKiller\obj\Debug\netcoreapp2.1\WebHelperKiller.csproj.CoreCompileInputs.cache
+D:\Projects\WebHelperKiller\WebHelperKiller\obj\Debug\netcoreapp2.1\WebHelperKiller.AssemblyInfoInputs.cache
+D:\Projects\WebHelperKiller\WebHelperKiller\obj\Debug\netcoreapp2.1\WebHelperKiller.AssemblyInfo.cs
+D:\Projects\WebHelperKiller\WebHelperKiller\obj\Debug\netcoreapp2.1\WebHelperKiller.dll
+D:\Projects\WebHelperKiller\WebHelperKiller\obj\Debug\netcoreapp2.1\WebHelperKiller.pdb
+D:\Projects\WebHelperKiller\WebHelperKiller\obj\Debug\netcoreapp2.1\WebHelperKiller.csprojAssemblyReference.cache
