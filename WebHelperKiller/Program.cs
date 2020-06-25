@@ -13,7 +13,7 @@ namespace WebHelperKiller
         private static Timer _timer;
         static void Main(string[] args)
         {
-
+            //test message
             //PrintPropertiesOfWmiClass("", "Win32_Process");
             _timer = new Timer(
                 callback:new TimerCallback(TimerTask),
